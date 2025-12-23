@@ -1,21 +1,4 @@
-# ⚡ Easy Way Technology
 
-<div align="center">
-  <img width="1200" alt="Easy Way Tech Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-  
-  <p align="center">
-    <strong>Cinematic Tech & Modern Web3 Experience</strong><br />
-    <em>A high-performance digital agency platform engineered for precision, speed, and visual excellence.</em>
-  </p>
-
-  <div>
-    <img src="https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-    <img src="https://img.shields.io/badge/GSAP-Animation-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-    <img src="https://img.shields.io/badge/Vite-6.0-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  </div>
-</div>
 
 ---
 
